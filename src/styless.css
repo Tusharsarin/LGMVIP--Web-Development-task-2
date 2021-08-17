@@ -1,0 +1,125 @@
+body {
+  background: linear-gradient(-45deg, #8090d8, #0edd65);
+}
+button {
+  border-radius: 5px;
+  border: thick;
+ 
+  color: rgb(255, 213, 213);
+  padding: 8px 15px 8px 15px;
+  font-style: bold;
+}
+
+button:hover {
+  color: rgb(192, 173, 173);
+  background: #808531;
+}
+
+nav {
+  color: black;
+  background-attachment: fixed;
+  background-color: #59d6a2;
+}
+.loader {
+  margin: 0 auto;
+}
+.avatar {
+  border-radius: 100px;
+  margin-bottom: 18px;
+}
+#main {
+  padding: 14px 50px;
+  margin: 0 auto;
+  display: none;
+}
+
+.info {
+  max-width: 300px;
+  margin: 15px auto;
+  text-align: center;
+  font-family: arial;
+  padding: 20px;
+  border-radius: 20px;
+  
+
+}
+.info:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.1);
+  background: linear-gradient(-45deg, #63aa95, #238a5a);
+ 
+}
+.name {
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.email {
+  font-family: sans-serif;
+  font-size: 18px;
+  overflow-wrap: break-word;
+}body {
+  background: linear-gradient(-45deg, #eeeeee, #54a893);
+}
+button {
+  border-radius: 5px;
+  border: thick;
+  background: linear-gradient(-45deg, #85c2ca, #5e60e6);
+  color: rgb(92, 77, 77);
+  padding: 18px 25px 18px 25px;
+  font-style: bold;
+  font-size: larger;
+  align-self: center;
+}
+
+button:hover {
+  color: rgb(17, 16, 16);
+  background: #863c6a;
+  text-align: center;
+}
+
+nav {
+  color: rgb(8, 8, 8);
+  background-attachment: fixed;
+  text-align: center;
+  font-size: 25px;
+}
+.loader {
+  margin: 0 auto;
+}
+.avatar {
+  border-radius: 100px;
+  margin-bottom: 18px;
+}
+#main {
+  padding: 14px 50px;
+  margin: 0 auto;
+  display: none;
+}
+
+.info {
+  max-width: 300px;
+  margin: 15px auto;
+  text-align: center;
+  font-family: arial;
+  padding: 20px;
+  border-radius: 20px;
+  background: linear-gradient(-45deg, #fdbff3, #83e980);
+ 
+}
+.info:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.1);
+  background: linear-gradient(-45deg, #7e4775, #dbe6fd);
+ 
+}
+.name {
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.email {
+  font-family: sans-serif;
+  font-size: 18px;
+  overflow-wrap: break-word;
+}
